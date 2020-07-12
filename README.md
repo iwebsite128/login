@@ -4,6 +4,15 @@
 </head>
 <body>
 
+<div>
+手机型号：
+<select>
+<option>iphone6</option>
+<option>iphone6s</option>
+<option>iphone7</option>
+</select>
+</div>
+
 <form class="form" action="https://www.google.com/">
 
 <label>
@@ -21,6 +30,9 @@
 <input type="submit">
 <input type="reset">
 </form>
+
+
+
 
 </body>
 </html>
